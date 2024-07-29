@@ -1,0 +1,14 @@
+.background{
+    background-image: url('../img/family.jpg');
+    background-size: cover;
+    background-position: center;
+    color: white!important;
+    box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.61);
+}
+
+.footer{
+    font-size:10px!important;
+  }
+.mybody{
+    box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.61);
+}
